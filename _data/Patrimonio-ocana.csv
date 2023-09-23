@@ -1,0 +1,62 @@
+ID;Nombre;Columna1;the_geom;Interés;Tipo;Subgrupo_patrimonial;Latitud;Longitud;FechaLegal;FechaCreación;Acto administrativo;Registro;Estado del registro;Nombre carpeta;;Imagen Artística
+I1;Leyenda de Antón García de Bonilla;;;Sin Definir;lenguas y tradición oral;Inmaterial;;;;;;;;;;
+I2;Desfile de los genitores;;;Nacional;actos festivos y folclóricos;Inmaterial;;;2006;1959;"Ley 1046 del 26 de julio de 2006
+Pero no aparece en la lista actual";;;;;
+I3;Carnavales;;;Sin Definir;actos festivos y folclóricos;Inmaterial;;;;1945;;;;;;
+I4;Manifestación religiosa de la Virgen de Torcoroma;;;Departamental;eventos religiosos colectivo;Inmaterial;;;2003;1711;Decreto 1144 de 2003;;;;;Devoción
+I5;Culto a Jesús Cautivo;;;Sin Definir;eventos religiosos colectivo;Inmaterial;;;;1838;;;;;;
+I6;El baile de la machetilla;;;Sin Definir;actos festivos y folclóricos;Inmaterial;;;;;;;;;;
+I7;Porro Andino;;;Sin Definir;actos festivos y folclóricos;Inmaterial;;;;;;;;;;
+I8;Arepa Ocañera;;;Sin Definir;cultura culinaria;Inmaterial;;;;;;;;;;Comida, cotidinanidad
+I9;Pan Ocañero;;;Sin Definir;cultura culinaria;Inmaterial;;;;;;;;I9_Pan_Ocanero;;Desayuno, media tarde
+I10;Semana Santa;;;Departamental;eventos religiosos colectivo;Inmaterial;;;2003;;Decreto 1144 de 2003;Si;Organizar los archivos, hay fotos de prosesión y visita a monutmentos en 2018;I10_Semana_Santa;;
+I11;Corporación Banda Municipal de Ocaña, Corpobanda;;;Municipal;Patrimonio cultural, folclórico y Artistístico;Inmaterial;;;1998;;El Acuerdo 06 de 2007, modificatorio del Acuerdo 018 de 2002, sancionado el 31 de mayo 2007;;;;;
+I12;Leyenda de Leonelda Hernández;;;Sin Definir;lenguas y tradición oral;Inmaterial;;;;;;;;;;
+IM1;Complejo Histórico de la Gran Convención;-73.355183, 8.232277;8.232277, -73.355183;Nacional;Arquitectura Religiosa;Inmueble;8.232.277;-73.355.183;1937;1584;Ley 75 del 22 de septiembre de 1937;;;IM1_Complejo_Historico_Gran_Convencion;;
+IM2;Santuario de Nuestra Señora de las Gracias de Torcoroma;-73.380951, 8.212204;8.212204, -73.380951;Nacional;Arquitectura Religiosa;Inmueble;8.212.204;-73.380.951;1972;1882;"Decreto 1425 de 16 de julio de 1972 (Lista del patrimonio Actualizada jul 2023)
+Decreto 2861 del 26 de noviembre de 1984";;;;;
+IM3;Museo Antón García de Bonilla;-73.353301, 8.238424;8.238424, -73.353301;Departamental;Arquitectura Habitacional;Inmueble;8.238.424;-73.353.301;2003;1973;Decreto 1144 de 2003;;;IM3_Museo_Anton_Garcia;;
+IM4;Catedral de Santa Ana;-73.353772, 8.234808;8.234808, -73.353772;Departamental;Arquitectura Religiosa;Inmueble;8.234.808;-73.353.772;2003;1564;Decreto 1144 de 2003;;;IM4_Catedral_Santa_Ana;;
+IM5;Iglesia de Jesús Cautivo;-73.354338, 8.230447;8.230447, -73.354338;Departamental;Arquitectura Religiosa;Inmueble;8.230.447;-73.354.338;2003;1895;Decreto 1144 de 2003;;;IM5_Iglesia_Jesus_Cautivo;;
+IM6;Capilla de la Virgen de Torcoroma;-73.352856, 8.233643;8.233643, -73.352856;Departamental;Arquitectura Religiosa;Inmueble;8.233.643;-73.352.856;2003;1749;"Decreto 2861 de 26 de noviembre de 1984 (lista representativa actual. Jul 23)
+Decreto 1144 de 2003";;;IM6_Capilla_Virgen_Torcoroma;;
+IM7;Parroquia de San Agustín;-73.353154, 8.238878;8.238878, -73.353154;Departamental;Arquitectura Religiosa;Inmueble;8.238.878;-73.353.154;2003;1596;Decreto 1144 de 2003;;;IM_7_Parroquia_San_Agustin;;
+IM8;Molino;-73.357789, 8.231234;8.231234, -73.357789;Municipal;Arquitectura para la industria;Inmueble;8.231.234;-73.357.789;;1700;Inmuebles localizados en áreas consolidadas;;;;;
+IM9;Plazuela de San Agustín;-73.353160, 8.238705;8.238705, -73.353160;Departamental;Patrimonio Urbano;Inmueble;8.238.705;-73.353.160;2003;1917;Decreto 1144 de 2003;;;IM9_Plazuela_San_Agustin;;
+IM10;Templo de Santa Rita;-73.355845, 8.232779;8.232779, -73.355845;Departamental;Arquitectura Religiosa;Inmueble;8.232.779;-73.355.845;2003;1700;Decreto 1144 de 2003;;;IM10_Templo_Santa_Rita;;
+IM11;Palacio Municipal;-73.354205, 8.234855;8.234855, -73.354205;Departamental;Arquitectura Institucional;Inmueble;8.234.855;-73.354.205;2003;1800;Decreto 1144 de 2003;;;;;
+IM12;Club Ocaña (Casa donde se Hospedó Simón Bolívar);-73.354611, 8.235566;8.235566, -73.354611;Departamental;Arquitectura Habitacional;Inmueble;8.235.566;-73.354.611;2003;1800;Decreto 1144 de 2003;;;IM12_Club_Ocana;;
+IM13;Templo de San Antonio de Padua;-73.345825, 8.231219;8.231219, -73.345825;Departamental;Arquitectura Religiosa;Inmueble;8.231.219;-73.345.825;2003;1904;Decreto 1144 de 2003;;;;;
+IM14;Casa donde se Hospedó Santander;-73.354306, 8.232681;8.232681, -73.354306;Municipal;Arquitectura Habitacional;Inmueble;8.232.681;-73.354.306;;1816;Inmuebles localizados en áreas consolidadas;;;;;
+IM15;Colegio Nacional José Eusebio Caro;-73.354556, 8.232927;8.232927, -73.354556;Municipal;Arquitectura Institucional;Inmueble;8.232.927;-73.354.556;;1916;Inmuebles localizados en áreas consolidadas;;;;;
+IM16;Palacio Episcopal;-73.353918, 8.234899;8.234899, -73.353918;Municipal;Arquitectura Institucional;Inmueble;8.234.899;-73.353.918;;1830;Inmuebles localizados en áreas consolidadas;;;IM16_Palacio_Episcopal;;
+IM17;Monasterio de Monjas Dominicas;-73.355478, 8.232422;8.232422, -73.355478;Municipal;Arquitectura Religiosa;Inmueble;8.232.422;-73.355.478;;1600;Inmuebles localizados en áreas consolidadas;;;IM17_Monasterio_Monjas_Dominicas;;
+IM18;Cementerio Católico Central;-73.357874, 8.236822;8.236822, -73.357874;Municipal;Arquitectura Religiosa;Inmueble;8.236.822;-73.357.874;;1924;Inmuebles localizados en áreas consolidadas;;;;;
+IM19;Instituto de Cultura y Bellas Artes Jorge Pacheco Quintero;-73.353891, 8.236634;8.236634, -73.353891;Sin Definir;Arquitectura Institucional;Inmueble;8.236.634;-73.353.891;;1961;;;;;;
+IM20;Centro Histórico de Ocaña;-73.353863, 8.235715;8.235715, -73.353863;Municipal;Patrimonio Urbano;Inmueble;8.235.715;-73.353.863;2007;1570;Acuerdo 06 de 2007;;;;;
+IM21;Plaza 29 de mayo;-73.353878, 8.235454;8.235454, -73.353878;Sin Definir;Patrimonio Urbano;Inmueble;8.235.454;-73.353.878;;1570;;;;IM21_Plaza_29_Mayo;;
+IM22;Iglesia fátima;-73.359101, 8.258232;8.258232, -73.359101;Sin Definir;Arquitectura Religiosa;Inmueble;8.258.232;-73.359.101;;1961;;;;;;
+IM23;Capilla del cementerio;-73.357469, 8.236753;8.236753, -73.357469;Sin Definir;Arquitectura Religiosa;Inmueble;8.236.753;-73.357.469;;1924;;;;;;
+IM24;Villa Barbosa;-73.335184, 8.223391;8.223391, -73.335184;Sin Definir;Arquitectura Habitacional;Inmueble;8.223.391;-73.335.184;;1828;Inmuebles localizados en áreas consolidadas;;;;;
+IM25;Botica de los Pobres;-73.354952, 8.231257;8.231257, -73.354952;Sin Definir;Arquitectura Habitacional;Inmueble;8.231.257;-73.354.952;;1800;;;;;;
+IM26;Casa donde se hospedó Pablo Morillo;-73.353544, 8.234742;8.234742, -73.353544;Municipal;Arquitectura Habitacional;Inmueble;8.234.742;-73.353.544;;1816;Inmuebles localizados en áreas consolidadas;;;;;
+IM27;Tempo del Dulce Nombre;-73.354729, 8.236205;8.236205, -73.354729;Municipal;Arquitectura Religiosa;Inmueble;8.236.205;-73.354.729;;1826;El Acuerdo 06 de 2007, modificatorio del Acuerdo 018 de 2002, sancionado el 31 de mayo 2007;;;IM27_Templo_Dulce_Nombre;;
+M1;Columna de la Libertad de los Esclavos;-73.353942, 8.235523;8.235523, -73.353942;Nacional;Columnas;Mueble;8.235.523;-73.353.942;2002;1851;Resolución 620 del 11 de abril de 2002, del ministerio de cultura;;;M1_Columna_Libertad_Esclavos;;
+M2;Monumento a Cristo Rey;-73.349249, 8.238250;8.238250, -73.349249;Departamental;Esculturas conmemorativas y artísticas;Mueble;8.238.250;-73.349.249;2003;1935;Decreto 1144 de 2003;;;;;
+M3;Monumento José Eusebio Caro;-73.354873, 8.232525;8.232525, -73.354873;Departamental;Esculturas conmemorativas y artísticas;Mueble;8.232.525;-73.354.873;2003;1956;Decreto 1144 de 2003;;;M3_Monumento_Jose_Eusebio_Caro;;
+M4;Monumento a Los Cafeteros;-73.356304, 8.244596;8.244596, -73.356304;Municipal;Esculturas conmemorativas y artísticas;Mueble;8.244.596;-73.356.304;2007;2007;El Acuerdo 06 de 2007, modificatorio del Acuerdo 018 de 2002;;;;;
+M5;Monumento ecuestre Antón García de Bonilla;-73.353291, 8.238440;8.238440, -73.353291;Municipal;Esculturas conmemorativas y artísticas;Mueble;8.238.440;-73.353.291;2007;2005;El Acuerdo 06 de 2007, modificatorio del Acuerdo 018 de 2002;Si;;M6_Estatua_Anton_Garcia;;
+M6;Busto de Jose Eusebio Caro;-73.354206, 8.234993;8.234993, -73.354206;Nacional;Bustos;Mueble;8.234.993;-73.354.206;2006;1919;Resolución Número 0395 de 22 de marzo 2006;;;;;
+M7;Monumento a la Santa Cruz;-73.359967, 8.231245;8.231245, -73.359967;Departamental;Esculturas conmemorativas y artísticas;Mueble;8.231.245;-73.359.967;2003;1944;Decreto 1144 de 2003;;;;;
+M8;Monumento a la Virgen del Carmen;-73.356182, 8.251629;8.251629, -73.356182;Municipal;Esculturas conmemorativas y artísticas;Mueble;8.251.629;-73.356.182;2007;1949;El Acuerdo 06 de 2007, modificatorio del Acuerdo 018 de 2002;;;;;
+M9;Busto de Simón Bolívar;-73.359150, 8.257976;8.257976, -73.359150;Municipal;Bustos;Mueble;8.257.976;-73.359.150;;1956;El Acuerdo 06 de 2007, modificatorio del Acuerdo 018 de 2002;;;;;
+M10;Busto de Santander;-73.353874, 8.235470;8.235470, -73.353874;Municipal;Bustos;Mueble;8.235.470;-73.353.874;2007;1940;El Acuerdo 06 de 2007, modificatorio del Acuerdo 018 de 2002;;;;;
+M11;Estatua de Francisco Fernández de Contreras;-73.357150, 8.249587;8.249587, -73.357150;Sin Definir;Esculturas conmemorativas y artísticas;Mueble;8.249.587;-73.357.150;;2005;;;;;;
+M12;Busto de Margario Quintero Jácome;-73.354200, 8.234693;8.234693, -73.354200;Sin Definir;Bustos;Mueble;8.234.693;-73.354.200;;1921;;;;;;
+M13;Estatua de Leonelda Hernández;-73.349983, 8.238666;8.238666, -73.349983;Sin Definir;Esculturas conmemorativas y artísticas;Mueble;8.238.666;-73.349.983;;1993;;;;;;
+M14;Monumento al Catatumbo;-73.341723, 8.238099;8.238099, -73.341723;Sin Definir;Esculturas conmemorativas y artísticas;Mueble;8.238.099;-73.341.723;;2017;;;;;;
+M15;Monumento a la vida;-73.321271, 8.235165;8.235165, -73.321271;Sin Definir;Esculturas conmemorativas y artísticas;Mueble;8.235.165;-73.321.271;;2005;;;;;;
+M16;Busto Argelino Durán Quintero;-73.346346, 8.229681;8.229681, -73.346346;Sin Definir;Bustos;Mueble;8.229.681;-73.346.346;;2010;;;;;;
+M17;Obelisco;-73.353823, 8.242156;8.242156, -73.353823;Sin Definir;Esculturas conmemorativas y artísticas;Mueble;8.242.156;-73.353.823;;2016;;;;;;
+M18;Ovelisco;;;Sin Definir;Columnas;Mueble;;;;2008;;;;;;
+N1;Reserva ecológica Ave Hormiguero;-73.380341, 8.202360;8.202360, -73.380341;Municipal;Natural;Natural;8.202.360;-73.380.341;2006;2006;;;;;;
